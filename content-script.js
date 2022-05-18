@@ -1,3 +1,5 @@
+'use strict';
+
 const countWords = () => {
   const textareas = document.querySelectorAll('.geS5n textarea.KHxj8b, .geS5n input.whsOnd');
   let counts = document.querySelectorAll('.geS5n .word-counter');
