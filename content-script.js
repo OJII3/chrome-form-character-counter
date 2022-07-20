@@ -10,8 +10,8 @@ const countWords = () => {
   } else {
 
     for (let i = 0; i < textareas.length; i++) {
-      const countDisplay = textareas[i].closest('.geS5n').querySelector('.G4EHhc');
-      const count = document.createElement('span');
+      const countDisplay = textareas[i].closest('.geS5n').querySelector('.HoXoMd');
+      const count = document.createElement('span'); 
       count.className = 'word-counter';
       count.style.color = '#00f';
       count.innerHTML = ` ${textareas[i].value.replace(/\s/g, '').length}文字`;
