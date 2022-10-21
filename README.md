@@ -1,0 +1,4 @@
+# chrome_extension_formWordCount
+
+Google Forms の回答に入力した文字数を表示するChrome拡張
+manifest_versionは3
