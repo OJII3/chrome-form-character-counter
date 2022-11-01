@@ -1,6 +1,6 @@
-# chrome_extension_formWordCount
+# Counting Characters of Google Forms
 
-Google Forms の回答に入力した文字数を表示するChrome拡張
+Google Forms の回答に入力した文字数を表示する超シンプルなChrome拡張です
 * manifest_versionは3
 
 # Usage
