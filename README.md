@@ -3,7 +3,7 @@
 Google Forms の回答に入力した文字数を表示するChrome拡張
 * manifest_versionは3
 
-# 使い方
+# Usage
 
 Chrome Web Store に公開するのはおかねがかかるので断念
 
